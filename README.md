@@ -13,3 +13,5 @@
 <hr>
 
 *link to website* : https://effortless-chaja-487aeb.netlify.app/
+
+## Deploy on Netlify
